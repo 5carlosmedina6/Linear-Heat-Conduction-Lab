@@ -18,8 +18,7 @@ MATLAB project for analyzing linear heat conduction through a brass bar using th
 - Measurement times: 2 s and 180 s.
 
 ## Usage
-Open `` in MATLAB and run the script to generate the temperature plots and calculate thermal conductivity.
-
+Open `LinearHeatConduction.m` in MATLAB and run the script to generate the temperature plots and calculate thermal conductivity.
 
 ## Author
 5carlosmedina6
